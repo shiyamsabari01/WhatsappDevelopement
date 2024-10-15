@@ -8,3 +8,5 @@ Author: sabari
 4.Attachment (Image,Audio,Video) code
 5.Hiding the Last seen code
 6.Adding the voice call option code
+7.Adding video call feature
+8.Adding status feature
