@@ -11,3 +11,4 @@ Author: sabari
 7.Adding video call feature
 8.Adding status feature
 9.Adding Payment option user should sent payment through Whatsapp
+10.Adding Group feature upto 100 user's can join this group
