@@ -10,3 +10,4 @@ Author: sabari
 6.Adding the voice call option code
 7.Adding video call feature
 8.Adding status feature
+9.Adding Payment option user should sent payment through Whatsapp
